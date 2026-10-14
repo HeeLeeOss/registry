@@ -2420,6 +2420,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Harmonized, documented open antimicrobial-resistance (AMR) monitoring datasets with datasheets and provenance, reused by a public-health research group."
+    },
+    {
+      "name": "ridebelt",
+      "repo": "HeeLeeOss/ridebelt",
+      "description": "Open design for an optional rider-worn backup restraint for amusement rides and a free, open seat anchor standard (RAS): incident research, load models, safety analysis, standard text and test methods. Safety-critical: all content is DRAFT until a credentialed engineer signs off at the MVP gate.",
+      "domain": [
+        "safety",
+        "engineering",
+        "open-standards"
+      ],
+      "priority": "medium",
+      "openTasks": 13,
+      "tags": [],
+      "definitionOfShipped": "RAS v1.0 and test methods published after credentialed engineer sign-off, and submitted to ASTM F24."
     }
   ]
 }
