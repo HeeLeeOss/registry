@@ -2444,7 +2444,7 @@
         "open-source"
       ],
       "priority": "medium",
-      "openTasks": 1,
+      "openTasks": 0,
       "tags": [],
       "definitionOfShipped": "A Zenodo sandbox rehearsal deposit per milestone; nothing is delivered to anyone."
     }
