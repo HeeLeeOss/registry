@@ -2434,6 +2434,19 @@
       "openTasks": 55,
       "tags": [],
       "definitionOfShipped": "RAS v1.0 and test methods published after credentialed engineer sign-off, and submitted to ASTM F24."
+    },
+    {
+      "name": "ship-rehearsal-fixture",
+      "repo": "HeeLeeOss/ship-rehearsal-fixture",
+      "description": "A throwaway project that exists once, to rehearse the `ship` stage of the full-SDLC lane against Zenodo's sandbox. It holds two tiny text files, one per milestone, so each milestone can be read, covered and shipped on its own. It is a good deed only in that it proves the ship path before any real publication; it has no outside beneficiary.",
+      "domain": [
+        "software",
+        "open-source"
+      ],
+      "priority": "medium",
+      "openTasks": 2,
+      "tags": [],
+      "definitionOfShipped": "A Zenodo sandbox rehearsal deposit per milestone; nothing is delivered to anyone."
     }
   ]
 }
