@@ -2471,9 +2471,10 @@
         "open-source"
       ],
       "priority": "medium",
-      "openTasks": 1,
+      "openTasks": 0,
       "tags": [],
-      "definitionOfShipped": "A GitHub Pages deploy of the project repository for the milestone; nothing is delivered to anyone."
+      "definitionOfShipped": "A GitHub Pages deploy of the project repository for the milestone; nothing is delivered to anyone.",
+      "deliveredTasks": 1
     }
   ]
 }
