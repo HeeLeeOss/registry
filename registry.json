@@ -2461,6 +2461,19 @@
       "tags": [],
       "definitionOfShipped": "A GitHub release on the project repository for the milestone; nothing is delivered to anyone.",
       "deliveredTasks": 1
+    },
+    {
+      "name": "ship-rehearsal-pages",
+      "repo": "HeeLeeOss/ship-rehearsal-pages",
+      "description": "A throwaway project used once to rehearse the `pages-deploy` recipe of the `ship` stage against a real GitHub Pages site. It holds one tiny page, `site/index.html`. It has no outside beneficiary.",
+      "domain": [
+        "software",
+        "open-source"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [],
+      "definitionOfShipped": "A GitHub Pages deploy of the project repository for the milestone; nothing is delivered to anyone."
     }
   ]
 }
