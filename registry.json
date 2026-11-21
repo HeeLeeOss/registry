@@ -2447,6 +2447,19 @@
       "openTasks": 0,
       "tags": [],
       "definitionOfShipped": "A Zenodo sandbox rehearsal deposit per milestone; nothing is delivered to anyone."
+    },
+    {
+      "name": "ship-rehearsal-release",
+      "repo": "HeeLeeOss/ship-rehearsal-release",
+      "description": "A throwaway project that exists once, to rehearse the `github-release` recipe of the `ship` stage against a real GitHub release. It holds one tiny text file, `dist/hello.txt`, so that its one milestone can be read, covered and shipped. It is a good deed only in that it proves the release path before any real publication; it has no outside beneficiary.",
+      "domain": [
+        "software",
+        "open-source"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [],
+      "definitionOfShipped": "A GitHub release on the project repository for the milestone; nothing is delivered to anyone."
     }
   ]
 }
