@@ -2490,6 +2490,21 @@
       "openTasks": 6,
       "tags": [],
       "definitionOfShipped": "Each milestone is a GitHub release on the project repository whose assets, fetched back from GitHub, match the bytes in the repository, with the licence gates and the clean-room review recorded; the studio is adopted by a partner only in a later milestone."
+    },
+    {
+      "name": "monmouth-patriot-project",
+      "repo": "HeeLeeOss/monmouth-patriot-project",
+      "description": "This run lays the foundation of the Monmouth Patriot Project, a public-domain record of the Revolutionary War",
+      "domain": [
+        "education",
+        "genealogy",
+        "open-history",
+        "public-data"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "The project repository holds the scaffold, the approved-sources gate, the standards and the first roster and namesake entries, published openly, and at least one candidate partner (the Monmouth County Historical Association, the Monmouth Battlefield State Park friends group or the SAR New Jersey Society's Monmouth chapter) has been shown the roster and inventory and its response recorded."
     }
   ]
 }
