@@ -2475,6 +2475,21 @@
       "tags": [],
       "definitionOfShipped": "A GitHub Pages deploy of the project repository for the milestone; nothing is delivered to anyone.",
       "deliveredTasks": 1
+    },
+    {
+      "name": "common-studio",
+      "repo": "HeeLeeOss/common-studio",
+      "description": "Common Studio is an open, public-domain music production studio in software. This plan covers the first slice of its spine: a correct core model with a hashable score representation, a gate that refuses any work without licence evidence, checks that catch musical errors before any audio is made, and the sourcing and asset licence policy those gates enforce. It is a good deed because it is the licence-clean foundation for a catalogue of recordings anyone may use for anything.",
+      "domain": [
+        "music",
+        "open-culture",
+        "public-domain",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 6,
+      "tags": [],
+      "definitionOfShipped": "Each milestone is a GitHub release on the project repository whose assets, fetched back from GitHub, match the bytes in the repository, with the licence gates and the clean-room review recorded; the studio is adopted by a partner only in a later milestone."
     }
   ]
 }
