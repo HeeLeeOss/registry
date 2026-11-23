@@ -2487,9 +2487,10 @@
         "software"
       ],
       "priority": "medium",
-      "openTasks": 6,
+      "openTasks": 2,
       "tags": [],
-      "definitionOfShipped": "Each milestone is a GitHub release on the project repository whose assets, fetched back from GitHub, match the bytes in the repository, with the licence gates and the clean-room review recorded; the studio is adopted by a partner only in a later milestone."
+      "definitionOfShipped": "Each milestone is a GitHub release on the project repository whose assets, fetched back from GitHub, match the bytes in the repository, with the licence gates and the clean-room review recorded; the studio is adopted by a partner only in a later milestone.",
+      "deliveredTasks": 4
     },
     {
       "name": "monmouth-patriot-project",
